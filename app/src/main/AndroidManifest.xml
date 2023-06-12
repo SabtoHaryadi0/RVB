@@ -14,7 +14,7 @@
         android:theme="@style/Theme.RecyclerViewBPartA"
         tools:targetApi="31">
         <activity
-            android:name=".add"
+            android:name=".AddMahasiswaActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"

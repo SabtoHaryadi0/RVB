@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity
 
         initAddButton();
         loadRecyclerView();
+
     }
 
     private void loadRecyclerView() {
